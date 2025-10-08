@@ -1,8 +1,8 @@
 # Simple Viewer (.NET)
 
+[![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 ![platforms](https://img.shields.io/badge/platform-windows%20%7C%20osx%20%7C%20linux-lightgray.svg)
-[![.net](https://img.shields.io/badge/net-6.0-blue.svg)](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
-[![license](https://img.shields.io/:license-mit-green.svg)](https://opensource.org/licenses/MIT)
+[![license](https://img.shields.io/:license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 [Autodesk Platform Services](https://forge.autodesk.com) application built by following
 the [Simple Viewer](https://tutorials.autodesk.io/tutorials/simple-viewer/) tutorial
